@@ -1,0 +1,20 @@
+{
+  "quests": [
+    {
+      "description": "Fazer editor se comunicar com o overlay",
+      "done": false
+    },
+    {
+      "description": "Fazer isso funcionar stand alone!",
+      "done": true
+    },
+    {
+      "description": "Criar Overlay de stream que mostra o que esta tocando no spotify",
+      "done": true
+    },
+    {
+      "description": "Prepararando Git",
+      "done": true
+    }
+  ]
+}

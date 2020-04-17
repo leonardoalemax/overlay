@@ -31,6 +31,7 @@ export const Display = styled.div`
 
 export const Quest = styled.div`
   width: 234px;
+  height: 50px;
   margin-bottom: 10px;
   margin-top: 10px;
   margin-right: 20px;
@@ -38,7 +39,6 @@ export const Quest = styled.div`
   padding: 8px;
   box-sizing: content-box;
   ${block}
-  border: ${props => props.done ? `10px solid ${props.theme.success}` : `10px solid ${props.theme.main}`};
 
   h3 {
     ${text}
